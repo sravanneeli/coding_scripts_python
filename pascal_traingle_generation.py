@@ -18,7 +18,7 @@ def pascal_triangle(A):
 
 
 def main():
-    print(pascal_triangle(5))
+    print(pascal_triangle(10))
 
 
 if __name__ == "__main__":
