@@ -23,7 +23,7 @@ def maxset(A):
     if len(max_sub) == 1:
         return max_sub[0]
     else:
-        maxList = max((x) for x in max_sub)
+        maxList = max(x for x in max_sub)
         return maxList
 
 
